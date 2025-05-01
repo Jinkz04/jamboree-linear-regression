@@ -50,5 +50,5 @@ To set up and run this project, follow the steps below:
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/Jamboree-Case-Study.git
-cd Jamboree-Case-Study
+git clone https://github.com/Jinkz04/jamboree-linear-regression
+cd jamboree-linear-regression
